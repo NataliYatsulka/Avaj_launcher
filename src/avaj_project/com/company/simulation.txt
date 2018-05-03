@@ -1,0 +1,46 @@
+Tower says: Helicopter#H2(1) registered to weather tower.
+Tower says: Baloon#B7(2) registered to weather tower.
+Tower says: JetPlane#J7(3) registered to weather tower.
+Tower says: Baloon#B2(4) registered to weather tower.
+Tower says: JetPlane#J1(5) registered to weather tower.
+Tower says: Helicopter#H1(6) registered to weather tower.
+Helicopter#H2(1): Hello sunshine.
+Baloon#B7(2): Go down!.
+JetPlane#J7(3): Christmas tree, where are you?.
+Baloon#B2(4): Hot, I want an ice cream.
+JetPlane#J1(5): I wet anywhere.
+Helicopter#H1(6): HoHoHo, Merry Christmas.
+Helicopter#H2(1): Hello sunshine.
+Baloon#B7(2): Go down!.
+JetPlane#J7(3): Summer is over.
+Baloon#B2(4): Can't see the mountain because of fog.
+JetPlane#J1(5): FOG.
+Helicopter#H1(6): HoHoHo, Merry Christmas.
+Helicopter#H2(1): Hello sunshine.
+Baloon#B7(2): Go down!.
+JetPlane#J7(3): Summer is over.
+Baloon#B2(4) landing.
+Tower says: Baloon#B2(4) unregistered from weather tower.
+JetPlane#J1(5) landing.
+Tower says: JetPlane#J1(5) unregistered from weather tower.
+Helicopter#H1(6): HoHoHo, Merry Christmas.
+Helicopter#H2(1): Hello sunshine.
+Baloon#B7(2): Go down!.
+JetPlane#J7(3): Summer is over.
+Helicopter#H1(6): HoHoHo, Merry Christmas.
+Helicopter#H2(1): Hello sunshine.
+Baloon#B7(2): Go down!.
+JetPlane#J7(3): Summer is over.
+Helicopter#H1(6): HoHoHo, Merry Christmas.
+Helicopter#H2(1): Hello sunshine.
+Baloon#B7(2): Go down!.
+JetPlane#J7(3): Summer is over.
+Helicopter#H1(6): HoHoHo, Merry Christmas.
+Helicopter#H2(1): Hello sunshine.
+Baloon#B7(2): Go down!.
+JetPlane#J7(3): Summer is over.
+Helicopter#H1(6): HoHoHo, Merry Christmas.
+Helicopter#H2(1): Hello sunshine.
+Baloon#B7(2): Go down!.
+JetPlane#J7(3): Summer is over.
+Helicopter#H1(6): HoHoHo, Merry Christmas.
