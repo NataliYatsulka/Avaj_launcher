@@ -1,7 +1,7 @@
 package avaj_project.com.company;
 
-public class Baloon extends Aircrafts implements Flyable {
-    private WeatherTower weatherTower = new WeatherTower();
+public class Baloon extends Aircraft implements Flyable {
+    WeatherTower weatherTower;
 
     Baloon(String name, Coordinates coordinates) {
         super(name, coordinates);

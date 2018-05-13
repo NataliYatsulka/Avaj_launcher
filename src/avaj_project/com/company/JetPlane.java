@@ -1,6 +1,6 @@
 package avaj_project.com.company;
 
-public class JetPlane extends Aircrafts implements Flyable{
+public class JetPlane extends Aircraft implements Flyable{
     private WeatherTower weatherTower;
 
     JetPlane(String name, Coordinates coordinates){

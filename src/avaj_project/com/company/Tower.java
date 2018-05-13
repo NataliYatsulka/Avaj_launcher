@@ -1,6 +1,5 @@
 package avaj_project.com.company;
 
-import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
